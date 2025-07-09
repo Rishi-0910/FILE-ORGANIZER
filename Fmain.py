@@ -1,10 +1,10 @@
 import os
 import shutil
 
-# Corrected variable name
+
 directory = os.path.join(os.path.expanduser("~"), "Downloads")
 
-# File type categories
+
 file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
     "Videos": [".mp4", ".mkv", ".avi", ".mov"],
@@ -14,6 +14,7 @@ file_types = {
 }
 
 # Process each file in the directory
+
 for file in os.listdir(directory):
     file_path = os.path.join(directory, file)
 
