@@ -10,7 +10,8 @@ file_types = {
     "Videos": [".mp4", ".mkv", ".avi", ".mov"],
     "Documents": [".pdf", ".docx", ".txt", ".pptx"],
     "Audio": [".mp3", ".wav", ".aac"],
-    "Archives": [".zip", ".rar", ".tar.gz"]
+    "Archives": [".zip", ".rar", ".tar.gz"],
+    "Python Scripts": [".py", ".ipynb"]
 }
 
 # Process each file in the directory
