@@ -39,5 +39,5 @@ for file in os.listdir(directory):
     else:
         print(f"Skipped {file}. It is a directory.")
 
-print("File organization complete.")
-print("All files have been organized into their respective folders.")
+print("FILE ORGANIZATION COMPLETE.")
+print("ALL FILES HAVE BEEEN ORGANIZED INTO THEIR RESPECTIVE FOLDER..")
