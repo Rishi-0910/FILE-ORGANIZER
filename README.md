@@ -12,6 +12,7 @@ The Python File Organizer is a simple script that helps users organize files in 
   - Documents: .pdf, .docx, .txt, .pptx
   - Audio: .mp3, .wav, .aac
   - Archives: .zip, .rar, .tar.gz
+  - Python Script: .py 
 - Skips files with unknown extensions and directories.
 
 ## Setup
