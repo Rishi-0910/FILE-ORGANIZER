@@ -1,4 +1,4 @@
-# Python File Organizer
+# Python File Organizer.
 
 ## Overview
 The Python File Organizer is a simple script that helps users organize files in their Downloads directory based on file types. It automatically sorts files into designated folders such as Images, Videos, Documents, Audio, and Archives, making it easier to manage and locate files.
@@ -26,7 +26,7 @@ The Python File Organizer is a simple script that helps users organize files in 
    cd python-file-organizer
    ```
 
-## Usage
+## Usage.
 1. Ensure you have Python installed on your machine.
 2. Run the script:
    ```
