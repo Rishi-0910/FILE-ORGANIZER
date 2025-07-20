@@ -7,12 +7,12 @@ The Python File Organizer is a simple script that helps users organize files in 
 - Scans the Downloads directory for files.
 - Identifies file types based on their extensions.
 - Moves files into corresponding folders:
-  - Images: .jpg, .jpeg, .png, .gif, .bmp.
-  - Videos: .mp4, .mkv, .avi, .mov.
-  - Documents: .pdf, .docx, .txt, .pptx.
-  - Audio: .mp3, .wav, .aac.
-  - Archives: .zip, .rar, .tar.gz.
-  - Python Script: .py .ipynb.
+  - Images: .jpg, .jpeg, .png, .gif, .bmp .
+  - Videos: .mp4, .mkv, .avi, .mov .
+  - Documents: .pdf, .docx, .txt, .pptx .
+  - Audio: .mp3, .wav, .aac .
+  - Archives: .zip, .rar, .tar.gz .
+  - Python Script: .py .ipynb .
 
 - Skips files with unknown extensions and directories.
 
